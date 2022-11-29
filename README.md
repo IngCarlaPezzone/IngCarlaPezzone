@@ -1,6 +1,6 @@
 - 👋 Hola!, Soy @IngCarlaPezzone
-- 👀 Estoy interesada en hacer proyectos de deep learning
-- 🌱 Actualmente estoy estudiando la especialización de Deep Learning y la especialización de TensorFlow Developer Professional Certificate ambos de de DeepLearning.AI.
+- 👀 Estoy interesada en hacer proyectos de Data Science y Deep Learning
+- 🌱 Actualmente estoy estudiando Data analytic. Aprobé la especialización de Deep Learning de DeepLearning.AI entre otros cursos de Tensorflow, Machine Learning, etc.
 - 💞️ Busco colaboración, sugerencias y comentarios sobre mis proyectos que iré subiendo a medida que tenga mas conocimientos.
 - 📫 Pueden encontrarme en LinkeIn!
 
