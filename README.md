@@ -42,7 +42,7 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="[https://github.com/AVS1508](https://github.com/IngCarlaPezzone)">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
 </a>
@@ -52,9 +52,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ingambcarlapezzone/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/ingambcarlapezzone/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Carla%20Pezzone%20Singh-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://public.tableau.com/app/profile/carla.pezzone"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white"></a>
 </p>
-
-⭐️ From [AVS1508](https://github.com/AVS1508)
 
