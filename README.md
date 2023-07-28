@@ -28,7 +28,7 @@
   ![BigQuery](https://img.shields.io/badge/-BigQuery-333333?style=flat&logo=bigquery)
   ![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgresql)
   ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
-  ![ApacheCassandra](https://img.shields.io/badge/-cassandra-333333?style=flat&logo=apache-cassandra&logoColor=white)
+  ![ApacheCassandra](https://img.shields.io/badge/-Cassandra-333333?style=flat&logo=apache-cassandra&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - 🔧 &nbsp;
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
