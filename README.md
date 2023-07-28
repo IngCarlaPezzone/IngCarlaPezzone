@@ -17,7 +17,7 @@
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
   ![BigQuery](https://img.shields.io/badge/-BigQuery-333333?style=flat&logo=bigQuery)
-  ![ApacheCassandra](https://img.shields.io/badge/-cassandra-333333?style=for-the-badge&logo=apache-cassandra&logoColor=white)
+  ![ApacheCassandra](https://img.shields.io/badge/-cassandra-47A248?style=flat&logo=apache-cassandra&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
