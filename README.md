@@ -5,7 +5,7 @@
 - 📫 Pueden encontrarme en <a target="_blank" href="https://www.linkedin.com/in/ingambcarlapezzone/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
 </a> y pueden ver mis visualizaciones en <a target="_blank" href="https://public.tableau.com/app/profile/carla.pezzone">
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white"/>
 </a>!
 
 <!---
