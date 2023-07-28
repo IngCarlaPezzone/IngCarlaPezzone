@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;Sobre mi </h3>
 
-- ❤️ &nbsp; Me apasiona la idea de estar creando modelos matemáticos para resolver algunta tarea del mundo real.
+- ❤️ &nbsp; Me apasiona la idea de estar creando modelos matemáticos para resolver alguna tarea del mundo real.
 - 🎓 &nbsp; Actualmente estoy estudiando en Soy Henry la carrera de Ciencia de Datos.
 - 💼 &nbsp; Estoy abierta a oportunidades laborales relacionadas con Machine Learning y Análisis de datos.
 - 🌱 &nbsp; Me encuentro continuamente estudiando y aprendiendo nuevas tecnologías.
