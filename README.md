@@ -39,7 +39,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
 
-
+<p align="center">
 <br/>
 
 <a href="[https://github.com/AVS1508](https://github.com/IngCarlaPezzone)">
@@ -48,11 +48,13 @@
 </a>
 
 <br/>
+</p>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ingambcarlapezzone/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Carla%20Pezzone-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://public.tableau.com/app/profile/carla.pezzone"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-blue?style=flat-square&logo=tableau"></a>
+<a href="https://public.tableau.com/app/profile/carla.pezzone"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-blue?style=flat-square&logo=tableau&logoColor=white"></a> 
+
 </p>
 
