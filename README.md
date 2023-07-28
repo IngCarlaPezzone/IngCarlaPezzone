@@ -16,7 +16,7 @@
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
-  ![BigQuery](https://img.shields.io/badge/-BigQuery-333333?style=flat&logo=bigquery)
+  ![BigQuery](https://img.shields.io/badge/-BigQuery-333333?style=flat&logo=bigQuery)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -37,6 +37,8 @@
 <br/>
 </p>
 
-<h3> 🤝🏻 &nbsp;Me encuentro en </h3><a href="https://www.linkedin.com/in/ingambcarlapezzone/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+<p align="center">
+<h3> 🤝🏻 &nbsp;Me encuentro en </h3>
+<a href="https://www.linkedin.com/in/ingambcarlapezzone/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://public.tableau.com/app/profile/carla.pezzone"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"></a> 
-
+</p>
