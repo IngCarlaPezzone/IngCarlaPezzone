@@ -53,8 +53,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ingambcarlapezzone/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Carla%20Pezzone-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://public.tableau.com/app/profile/carla.pezzone"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-blue?style=flat-square&logo=tableau&logoColor=white"></a> 
+<a href="https://www.linkedin.com/in/ingambcarlapezzone/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://public.tableau.com/app/profile/carla.pezzone"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"></a> 
 
 </p>
 
