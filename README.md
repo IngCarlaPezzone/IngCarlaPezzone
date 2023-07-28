@@ -1,6 +1,4 @@
-<p align="center">
-<h2> Hola! Soy Carla Pezzone.</h2>
-</a>
+<h2> 👋 &nbsp; Hola! Soy Carla Pezzone.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;Sobre mi </h3>
 
