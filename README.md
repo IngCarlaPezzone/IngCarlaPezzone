@@ -37,11 +37,6 @@
 <br/>
 </p>
 
-<h3> 🤝🏻 &nbsp;Me encuentro en </h3>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/ingambcarlapezzone/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+<h3> 🤝🏻 &nbsp;Me encuentro en </h3><a href="https://www.linkedin.com/in/ingambcarlapezzone/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://public.tableau.com/app/profile/carla.pezzone"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"></a> 
-
-</p>
 
