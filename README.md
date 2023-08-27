@@ -46,6 +46,8 @@
   ![colab](https://img.shields.io/badge/-colab-333333?style=flat&logo=colabbadge)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
+- ☁️ &nbsp;
+  ![Render](https://img.shields.io/badge/-Render-333333?style=flat&logo=render)
 
 <p align="center">
 <br/>
