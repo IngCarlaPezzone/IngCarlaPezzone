@@ -41,13 +41,16 @@
   ![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![DVC](https://img.shields.io/badge/-DVC-333333?style=flat&logo=dvc)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=githubactions)
   ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
   ![colab](https://img.shields.io/badge/-colab-333333?style=flat&logo=colabbadge)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
 - ☁️ &nbsp;
   ![Render](https://img.shields.io/badge/-Render-333333?style=flat&logo=render)
+  ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=google-cloud)
 
 <p align="center">
 <br/>
